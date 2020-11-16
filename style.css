@@ -4,6 +4,7 @@
         height: 98vh;
         display: grid;
         gap: 15px;
+        margin: 15px;
 }
 #header1{
         background-color: blueviolet;
@@ -44,6 +45,7 @@
         height: 98vh;
         display: grid;
         gap: 15px;
+        margin: 15px;
 }
 #header2{
         background-color: burlywood;
@@ -91,6 +93,7 @@
         height: 98vh;
         display: grid;
         gap: 15px;
+        margin: 15px;
 }
 #header3{
         background-color: blueviolet;
@@ -124,3 +127,4 @@
         grid-row-end: 3;
         grid-column-start: 1;
         grid-column-end: 4;
+}
